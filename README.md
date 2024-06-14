@@ -1,3 +1,5 @@
+This repo is modified version of https://github.com/kinivi/hand-gesture-recognition-mediapipe for its application as a handguided mouse.
+
 Create conda env using command in the root directory and run app_edited.py
 
 conda env create --name <envname> --file=env.yml
